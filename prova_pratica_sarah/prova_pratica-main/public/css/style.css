@@ -1,0 +1,122 @@
+
+        *{
+            padding: 0px;
+            margin: 0px;
+            box-sizing: border-box;
+        }
+
+        hr{
+            margin-bottom: 30px;
+            height: 2px;
+            border-radius: 100px;
+            text-decoration: none;
+            background-color: black;
+        }
+
+        nav a{
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-decoration: none;
+            font-size: 50px;
+            color: black;
+            text-align: center;
+            padding: 20px;
+            margin-left: 50px;
+
+        }
+        .container{
+            align-items: center;
+            border-color: black;
+            width: 500px;
+            text-decoration: none;
+            border-radius: 15px;
+            border-style: groove;
+        }
+
+        .container h4{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            align-items: center;
+            text-align: center;
+            font-weight: normal;
+            font-size: 20px;
+
+        }
+
+
+        p{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: bold;
+            font-size: 25px;
+        }
+
+        .container h2{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+        }
+
+        .azul button{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-decoration: none;
+            color: blue;
+            outline: auto;
+            font-size: 20px;
+            border-radius: 5px;
+        }
+
+        .verde button{
+            text-decoration: none;
+            color: green;
+            outline: auto;
+            font-size: 20px;
+            border-radius: 5px;
+        }
+
+        .vermelho button{
+            text-decoration: none;
+            color: red;
+            outline: auto;
+            font-size: 20px;
+            border-radius: 5px;
+        }
+
+        .botoes{
+            align-items: center;
+            margin-top: 15px;
+            margin-left: 5px;
+            display: block;
+            text-align: center;
+            padding: 15px;
+        }
+
+        h1{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+        }
+
+        .part-1{
+            margin-left: -350px;
+        }
+
+        .part-2{
+            margin-top: -30px;
+            margin-left: 350px;
+        }
+
+        
+        .part1{
+            display: flex;
+            align-items: center;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .part2{
+            margin-top: 20px;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .TUDO{
+            align-items: center;
+        }
